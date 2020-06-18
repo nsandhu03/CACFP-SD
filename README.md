@@ -13,4 +13,6 @@ Survey Questions
 Scaling
   -To add more questions:
     1) Go to SurveyJS and set up account
-    2) 
+    2) Create a new survey
+    3) Go to Questionaire.js file in this repository
+    4) Copy the contents of "var = json" (this holds all the question data
