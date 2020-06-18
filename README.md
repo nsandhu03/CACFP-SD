@@ -1,16 +1,16 @@
 # CACFP-SD
 
-##Homepage<br/>
+## Homepage<br/>
   -HTML<br/>
   -Bootstrap<br/>
 
-##Survey Questions<br/>
+## Survey Questions<br/>
   -Uses SurveyJS<br/>
   -Questions and format are saved as JSON<br/>
   -To make the questions shown dependent on previous answers, use the "VisibleIf" logic<br/>
   -Questions are labeled by subquestions depth (ie 1.1 is the first subquestion of question<br/>
   
-##Scaling<br/>
+## Scaling<br/>
   -To add more questions:<br/>
     1. Go to SurveyJS and set up account<br/>
     2. Create a new survey<br/>
