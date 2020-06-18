@@ -15,4 +15,4 @@
     1. Go to SurveyJS and set up account<br/>
     2. Create a new survey<br/>
     3. Go to Questionaire.js file in this repository<br/>
-    4. Copy the contents of "var = json" (this holds all the question data) and paste them into JSON editor tab of SurveyJS<br/>
+    4. Copy the contents of "var json" (this holds all the question data) and paste them into JSON editor tab of SurveyJS<br/>
