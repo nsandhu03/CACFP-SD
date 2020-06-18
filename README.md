@@ -8,7 +8,7 @@
   -Uses [SurveyJS](http://SurveyJS.io) for survey formatting and logic. <br/>
   -Questions and format are saved as JSON<br/>
   -To make the questions shown dependent on previous answers, use the "VisibleIf" logic<br/>
-  -Questions are labeled by subquestions depth (ie 1.1 is the first subquestion of question<br/>
+  -Questions are labeled by subquestions depth (ie 1.1 is the first subquestion of question)<br/>
   
 ## Scaling<br/>
   -To add more questions:<br/>
